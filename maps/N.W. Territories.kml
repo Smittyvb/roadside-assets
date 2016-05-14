@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>N.W. Territories</name>
+		<Placemark>
+			<name>Inuvik - Igloo Church</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/CI-eczUgFcZ6lTOe8YjHXUHYDME5kSbolEPPBWQvfqI2f45dSAzmODCh2adjeEqyxcEhatTYr4yrXZgSygLN" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/CI-eczUgFcZ6lTOe8YjHXUHYDME5kSbolEPPBWQvfqI2f45dSAzmODCh2adjeEqyxcEhatTYr4yrXZgSygLN</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.721992,68.358015,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Inuvik - Inukshuk</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/D9BKXZpjnxDIxqlVliZIFD8aHvO9NmjuB0Iz6GNfUHCDhUPYnw3wHTcsQQ10aH6-7V_geFNaMcqMZP76ZVNdhw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/D9BKXZpjnxDIxqlVliZIFD8aHvO9NmjuB0Iz6GNfUHCDhUPYnw3wHTcsQQ10aH6-7V_geFNaMcqMZP76ZVNdhw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.721648,68.356788,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hay River - Inukshuk</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/OsuinLwRhnSACHUbsrhbiTvJtGZae3khCrIM9j1SZjiMGqe0TbnMx8ry3A59IA8VdbxCKbJyXBnZNYfVpYGKAUI" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/OsuinLwRhnSACHUbsrhbiTvJtGZae3khCrIM9j1SZjiMGqe0TbnMx8ry3A59IA8VdbxCKbJyXBnZNYfVpYGKAUI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-115.788378,60.810413000000004,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

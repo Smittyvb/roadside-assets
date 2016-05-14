@@ -1,0 +1,429 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Quebec</name>
+		<Placemark>
+			<name>Asbestos - Lectra Hauler</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5HHi0pFF_yH1nv_iSgBtj6ZV3MLX09AO8DrbEIMTsFFvBh9ZDHPOXASmzoGLP6HeIjoOUWxH70vYcNIjR_KY6TQv3w" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/5HHi0pFF_yH1nv_iSgBtj6ZV3MLX09AO8DrbEIMTsFFvBh9ZDHPOXASmzoGLP6HeIjoOUWxH70vYcNIjR_KY6TQv3w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.940177,45.781219,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baie Comeau - Canoe Padder - "Colonel McCormack"</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/z7rvcafms-lNWj0s9DkolBsvlx9AAi4tZe4MMpz6-mEVfD9PRQPINz1L4IKImLD42BEDgMDcdtt2IC2r9-AiaPKmmA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/z7rvcafms-lNWj0s9DkolBsvlx9AAi4tZe4MMpz6-mEVfD9PRQPINz1L4IKImLD42BEDgMDcdtt2IC2r9-AiaPKmmA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.149256,49.221507,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baie Comeau - Poppy Memorial</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/546u38o-XS-NFYTDXR5hEqYawqZynnJUvjdQSqqni8T1axeQN-ntemHw_Bn7NY5aNhhg0SgQ4ZY_OrSN52A" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/546u38o-XS-NFYTDXR5hEqYawqZynnJUvjdQSqqni8T1axeQN-ntemHw_Bn7NY5aNhhg0SgQ4ZY_OrSN52A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.144878,49.219328,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Baie-Saint-Paul - Cow</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/8WLmItnLqaaNp_LzdQr1-7i3yHX-AGaSoNKKPqhIVlqiAWoJKbRiL8D5Z8f3MacHHuSAWFUFST9AUyAY1-ZLfnTojsdDEA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/8WLmItnLqaaNp_LzdQr1-7i3yHX-AGaSoNKKPqhIVlqiAWoJKbRiL8D5Z8f3MacHHuSAWFUFST9AUyAY1-ZLfnTojsdDEA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.531237,47.472199,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coaticook - Bull</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-nckV61oU8yEwBGQkjBxppRzCX8zqvi_ZIQZcJHObwjHjkW8T2MZ-T9YW0f66moz4nraYEWwOK9T3Pl9uQhB1VHh" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/-nckV61oU8yEwBGQkjBxppRzCX8zqvi_ZIQZcJHObwjHjkW8T2MZ-T9YW0f66moz4nraYEWwOK9T3Pl9uQhB1VHh</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.820154,45.132072,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>La Bostonnais - Large Chair and Side Table</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/LNmil3KmgAYzcQD2EZ59RErynRtHrZ_ZBlEe9y5JH0EHMryXCUns-fXseguTcYIMdwm-2M3np29TRZlXHwLllRjAvAD0" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/LNmil3KmgAYzcQD2EZ59RErynRtHrZ_ZBlEe9y5JH0EHMryXCUns-fXseguTcYIMdwm-2M3np29TRZlXHwLllRjAvAD0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.68456,47.522144,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Les-Chutes-de-la-Chaudiere-Ouest - Husky Dog</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/SoUialZOwymmB_N8BiBhb4Xsm3iWvwBgAFDDxjy7jp-sxB37WJAMB41y-SRxvsL6A5kpS1LihzjU3qL8r_VriTE" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/SoUialZOwymmB_N8BiBhb4Xsm3iWvwBgAFDDxjy7jp-sxB37WJAMB41y-SRxvsL6A5kpS1LihzjU3qL8r_VriTE</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.391577,46.65995,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longue-Pointe-de-Mingan - Whale</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/HsJpalWfvwULSC6D4Pot4Naf-PI14LTOJkX0kh2zXQQSTQN4thuOY-SJL6mrIE70oCNHHm20XkDnMZKlw54E" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/HsJpalWfvwULSC6D4Pot4Naf-PI14LTOJkX0kh2zXQQSTQN4thuOY-SJL6mrIE70oCNHHm20XkDnMZKlw54E</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.134434,50.270917,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Longue-Pointe-de-Mingan - Puffin</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5g_2r1LTlp_bKRGHnohPWa9n3wEMY78JMgFgCXZgJ-MoVviX6F5G7rO7A2ViKEFhhW0laMvdokGuizhqhhRS" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/5g_2r1LTlp_bKRGHnohPWa9n3wEMY78JMgFgCXZgJ-MoVviX6F5G7rO7A2ViKEFhhW0laMvdokGuizhqhhRS</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.13452,50.270896,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Matane - Whale</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/AKbFC0uuRWSltR6HmdtTptz0ZvbOljG8SQszWk86xMMUIp62wEzfsg5y3Q6aXG7pp7YPIVtbHOoScDKrHhn8" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/AKbFC0uuRWSltR6HmdtTptz0ZvbOljG8SQszWk86xMMUIp62wEzfsg5y3Q6aXG7pp7YPIVtbHOoScDKrHhn8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.607406,48.814897,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montreal - Les Couchoeuses</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/uAjb-Arq_cuQoAK0ccjM3-5rBbHV7h3DuMebCHuy9EkLeUlEOYGom7mTwg4By8CXYaN3Aa6ouRtZNo3pol0d5WPZRzVD" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/uAjb-Arq_cuQoAK0ccjM3-5rBbHV7h3DuMebCHuy9EkLeUlEOYGom7mTwg4By8CXYaN3Aa6ouRtZNo3pol0d5WPZRzVD</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.5541213,45.5053017,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montreal - Mont-Royal Cross</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/FWPNiDVZcFep5l10-Vh5YpbYvD2W1wJLvKnDIZlcxmT08u9v1eu9B1gpEDwyNEcFkUz5od_7u8pnoUq-MTo" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/FWPNiDVZcFep5l10-Vh5YpbYvD2W1wJLvKnDIZlcxmT08u9v1eu9B1gpEDwyNEcFkUz5od_7u8pnoUq-MTo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.587778,45.508791,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Montreal - Orange Julep</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/UH52sjk5mI4m4jRVPFE1BzoNCUL389HelRSDoS6sGj0X1CR_7en82t0IZ_QBz1ccWu6Kw7H-0OXFqeRIWZWd" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/UH52sjk5mI4m4jRVPFE1BzoNCUL389HelRSDoS6sGj0X1CR_7en82t0IZ_QBz1ccWu6Kw7H-0OXFqeRIWZWd</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.656764,45.495782,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quebec City - Singing Frog</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MDGcAR986Hj5fg9sGMj1GCCgWT0OLEiwp3HnR2Ns9WjasJvMasA5eGDfdYEQxrHk71DuUSp6SPu3z2RZXjHjYW8oY38" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/MDGcAR986Hj5fg9sGMj1GCCgWT0OLEiwp3HnR2Ns9WjasJvMasA5eGDfdYEQxrHk71DuUSp6SPu3z2RZXjHjYW8oY38</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.222619,46.814754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Quebec City - "The Odyssey" (Campbell's Soup Can and Pigeons)</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/NS5achwCFOzDH_e1EHyWggUQM_jXh9vHFq_cAscLuLV_jY-V3n5aCA6hVC2Hzl6OfwvX09Fzb9vmhg3N0edrKA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/NS5achwCFOzDH_e1EHyWggUQM_jXh9vHFq_cAscLuLV_jY-V3n5aCA6hVC2Hzl6OfwvX09Fzb9vmhg3N0edrKA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.2098277,46.8171177,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ragueneau - Dinosaur</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/dUMeVV-DHflWkYUx_ssA40ubOpAeIJSQG3v4yoTffKodUFLj8w5_7nDaD7gnjwDzoSFNJxcp61dRtCCkzkg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/dUMeVV-DHflWkYUx_ssA40ubOpAeIJSQG3v4yoTffKodUFLj8w5_7nDaD7gnjwDzoSFNJxcp61dRtCCkzkg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.549645,49.056306,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rivière-du-Loup - Indian Head</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/pDS7XZfAo2sVnQ7rLIqfCDsY4opK18vWgAlWgomsX05HyLmbm4ESM1o5w4tGqyt0LQKzTT3A2xBzr4_PdMlX9VOYka0" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/pDS7XZfAo2sVnQ7rLIqfCDsY4opK18vWgAlWgomsX05HyLmbm4ESM1o5w4tGqyt0LQKzTT3A2xBzr4_PdMlX9VOYka0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.556482,47.857466,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sabrevois - Geant Antique Man</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-EWZqp62X6fM8CK4hotG8kaoIiVkWBZV7nmdhSSNpZ1mFBoARJTnKVclU5N-YVJEoqAOQzgnLN1OGIie7Ps" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/-EWZqp62X6fM8CK4hotG8kaoIiVkWBZV7nmdhSSNpZ1mFBoARJTnKVclU5N-YVJEoqAOQzgnLN1OGIie7Ps</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.22944,45.229754,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sainte-Anne-de-Beaupre - Dogs</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/OGBkHrydfv0GZzVSp9E9_pnyz-Ilso0rSjm0UzxIoNQ7QydDqtm_OmW7ZmfHyiCxqL5fD3MlDibssaLdiA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/OGBkHrydfv0GZzVSp9E9_pnyz-Ilso0rSjm0UzxIoNQ7QydDqtm_OmW7ZmfHyiCxqL5fD3MlDibssaLdiA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.974051,46.999289,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sainte-Anne-de-Beaupre - Moose</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/UKbI9w0DwhrEqCKnw4un60ddknVQWqPSK06jiJoYEryoaXrJYUQQ4GkNPcVC_1jfttMAX7Ygk-EkeBCOtu5zLg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/UKbI9w0DwhrEqCKnw4un60ddknVQWqPSK06jiJoYEryoaXrJYUQQ4GkNPcVC_1jfttMAX7Ygk-EkeBCOtu5zLg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.973868,46.999452,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sainte-Anne-de-Beaupre - Smurf Huts</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/W87tEtBtRWWpz1_WHCKyumsqUxdoCHlLJFNIzj8aiuq2BYSjmmoPU4cBw8XjWNg8Vx30V5sPAp5v6MYIfVQwHB0g" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/W87tEtBtRWWpz1_WHCKyumsqUxdoCHlLJFNIzj8aiuq2BYSjmmoPU4cBw8XjWNg8Vx30V5sPAp5v6MYIfVQwHB0g</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-70.954728,47.010595,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Hyacinthe - Large Egg</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/S4YTWx4VD7Qn9aNdiMYJJ27gb-KVLlhP6d4nvb7qElRKVmKf_UA_e_r1oKIdCBL_VbDHOgoFFSpopLw202s" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/S4YTWx4VD7Qn9aNdiMYJJ27gb-KVLlhP6d4nvb7qElRKVmKf_UA_e_r1oKIdCBL_VbDHOgoFFSpopLw202s</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.992078,45.633287,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Hyacinthe - L'Espace Maskoutain</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ykfKVB1RJv-zhvNiI5kRkaC3L2bP-GtKvhNPcAay-67WX3lbjVJiBOPAeBJ1cah7Adx7GfRsbAqthDcXFA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/ykfKVB1RJv-zhvNiI5kRkaC3L2bP-GtKvhNPcAay-67WX3lbjVJiBOPAeBJ1cah7Adx7GfRsbAqthDcXFA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-72.962378,45.633377,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St.-Georges-de-Windsor - Cow Lookout</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ytMPOoWpBP8c84evnDQsgLV5YP7OI_BnXoyED8ULs6F92613dRziOhz4w7Oily4lnCNs0bOBVqRbeItuZgo5B-YuRA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/ytMPOoWpBP8c84evnDQsgLV5YP7OI_BnXoyED8ULs6F92613dRziOhz4w7Oily4lnCNs0bOBVqRbeItuZgo5B-YuRA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-71.860159,45.682382,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St-Jean-sur-Richelieu - Rail Spike</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/GugsEhJhMfIQljY1Uo_T-caGpaPoZn-xOiP-HyGXsaeKgmObUyNmW34AjbvS48GzwMCjHTRdHuMnxgM3UJLkYIof" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/GugsEhJhMfIQljY1Uo_T-caGpaPoZn-xOiP-HyGXsaeKgmObUyNmW34AjbvS48GzwMCjHTRdHuMnxgM3UJLkYIof</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-73.253899,45.302618,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tadoussac - Beluga</name>
+			<styleUrl>#icon-22-nodesc</styleUrl>
+			<Point>
+				<coordinates>-69.716422,48.143579,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tadoussac - Belugas</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/xp_C3P1qIfgl0w71jeIhDaND_N06ONTVFTYVpipcha-NcIklJGm_TDcetbnFZGEJbMsKE6VijZif-VPcH-l6ew" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-22</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/xp_C3P1qIfgl0w71jeIhDaND_N06ONTVFTYVpipcha-NcIklJGm_TDcetbnFZGEJbMsKE6VijZif-VPcH-l6ew</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-69.718959,48.138811,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-22-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-22-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-22'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-22-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-22-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/22-blue-dot.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-22-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,317 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Newfoundland</name>
+		<Placemark>
+			<name>Deer Lake - Strawberry</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/heXhTTTZU3wa9rKTdkYgmSI-7RI66byyGoqWr03FBuO4_tgcqwd2Nq9-XY1kBx8mkfoGtaOyaapqWCXi11zI7sa-qOQo" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/heXhTTTZU3wa9rKTdkYgmSI-7RI66byyGoqWr03FBuO4_tgcqwd2Nq9-XY1kBx8mkfoGtaOyaapqWCXi11zI7sa-qOQo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-57.433932000000006,49.193852,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Deer Lake - Moose</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5p5Z0SF8X5ILs_gDSNam7o_iuXPoWItsaj435ITD2aGcG0C15rhJUInm-KgbUNDq7HyK-a71UgeJmk4BzMcH6Zs" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/5p5Z0SF8X5ILs_gDSNam7o_iuXPoWItsaj435ITD2aGcG0C15rhJUInm-KgbUNDq7HyK-a71UgeJmk4BzMcH6Zs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-57.427060999999995,49.188569,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Eastport - Horse Drawn Wagon Hearse</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-Z6fW5QrfN1oItx0zuBjB7wTjHzcrDHyjS8BBIiYFOQ7AA0ggCRe7DH9-2sxY38hJfho8Vjkif7h1YUTxxFP" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/-Z6fW5QrfN1oItx0zuBjB7wTjHzcrDHyjS8BBIiYFOQ7AA0ggCRe7DH9-2sxY38hJfho8Vjkif7h1YUTxxFP</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-53.759172,48.645174,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gambo - Joe's Look-Out</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ScInF3lT8TJPUsqgwgioky9C3131vwCdwvZVfia8G7LIzFTTXsihEhfKO7KneBpGbC9NZeMx_U0be3BoDA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/ScInF3lT8TJPUsqgwgioky9C3131vwCdwvZVfia8G7LIzFTTXsihEhfKO7KneBpGbC9NZeMx_U0be3BoDA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.235146,48.759342,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gander - Airplane Tail</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/RPR7jfGjq_cD5-GGUC5v_mMmobEtvD-dt8PGFFVVWmto6VeoQg0zXKCeuCzrheGUDP_7dtrRCEaJW6F0f3e57jibCd8A" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/RPR7jfGjq_cD5-GGUC5v_mMmobEtvD-dt8PGFFVVWmto6VeoQg0zXKCeuCzrheGUDP_7dtrRCEaJW6F0f3e57jibCd8A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.622816,48.952434,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gander - Wire Airplane</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/wi5urssxsx-pwadXpXe8YWzT27Q7OewrrYc8DfSqK6l_vaQIOqI-qB9lKHeyuhYuCidh5vdxzZ2NHnQvF0y7j-yl" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/wi5urssxsx-pwadXpXe8YWzT27Q7OewrrYc8DfSqK6l_vaQIOqI-qB9lKHeyuhYuCidh5vdxzZ2NHnQvF0y7j-yl</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.633079,48.959607,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gander - Wire Biplane</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/4OSaG8sj6Cac-dLz1UqkWVWOP7stWMIJxUeokvAbYmNF3hjqqWsipO_8v7hPPj6OWSdtIIHshAtUsPkjMvSUig" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/4OSaG8sj6Cac-dLz1UqkWVWOP7stWMIJxUeokvAbYmNF3hjqqWsipO_8v7hPPj6OWSdtIIHshAtUsPkjMvSUig</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.60822,48.956261,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gander - Wire Concorde</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Ba50n7BKPEBALB8cHkXDt-steVj5l2PuGoe7w7qCMbmcWPt5JIUa2jVoSRvwQr0tkPeYa_xioDTns8ge9396vHs" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/Ba50n7BKPEBALB8cHkXDt-steVj5l2PuGoe7w7qCMbmcWPt5JIUa2jVoSRvwQr0tkPeYa_xioDTns8ge9396vHs</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.613343,48.947833,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gander - Wire Float Plane</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/AE7tabnLVKn1tOsMBChk3YVofZ8XJPE3rQmdO9rGzvU2J9iyg7PlrJYfC_CMnqyWxFmMoF7-him1KIvLfUXd0T4tJq8" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/AE7tabnLVKn1tOsMBChk3YVofZ8XJPE3rQmdO9rGzvU2J9iyg7PlrJYfC_CMnqyWxFmMoF7-him1KIvLfUXd0T4tJq8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.613654,48.957864,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gander - Wire Helicopter</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/W_O3GMpcXasheXuRshlSSbZxSWzJfU3egTEr7ltrRWEmbTQJdvnRR6wq3iuGNJKjw_YzKU_1mAWNZ7eo-UU9fLNIJlQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/W_O3GMpcXasheXuRshlSSbZxSWzJfU3egTEr7ltrRWEmbTQJdvnRR6wq3iuGNJKjw_YzKU_1mAWNZ7eo-UU9fLNIJlQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.605961,48.98398100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Glovers Harbour - Giant Squid</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/E9gVSV-4k4sTcgr0WuzLadodIa48JVaNEfR_d--IcFu9YrCt2S7Gtg4yrh6u7DlioKMieYGuib9ZdIrlasM" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/E9gVSV-4k4sTcgr0WuzLadodIa48JVaNEfR_d--IcFu9YrCt2S7Gtg4yrh6u7DlioKMieYGuib9ZdIrlasM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-55.482255,49.453836,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Goobies - Moose</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/2b7wZxmaqIGEIqV7HTxVUBci4I3D8zhuG4OASzdBkgFzmba__7vtwcWgJrNzusVB11J_9jlxmydKgYYcbAJlcQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/2b7wZxmaqIGEIqV7HTxVUBci4I3D8zhuG4OASzdBkgFzmba__7vtwcWgJrNzusVB11J_9jlxmydKgYYcbAJlcQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-53.95075400000001,47.946388,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grand Bank - Boat and Lighthouse</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/zz3u7Ud6koGi16oEJC8IEs30ndI_NPu7fNe-Lf6a9UijKFTIJnuxtULrkZazU7m658pZcIOAg2Rp5Uh2JrmX" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/zz3u7Ud6koGi16oEJC8IEs30ndI_NPu7fNe-Lf6a9UijKFTIJnuxtULrkZazU7m658pZcIOAg2Rp5Uh2JrmX</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-55.722637,47.090935,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grand Bank - Southern Newfoundland Seaman's Museum Mural</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/B5TdBashk74LdU-_pJsWBbcrfelbgbdPp5sc99DcxLqTqT0AVbelcqokNtsPe-D7cetoGDeoBahCOq5_Rn-IoA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/B5TdBashk74LdU-_pJsWBbcrfelbgbdPp5sc99DcxLqTqT0AVbelcqokNtsPe-D7cetoGDeoBahCOq5_Rn-IoA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-55.743524,47.09544,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grand Falls-Windsor - Salmon</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/upPq4DRVaYBGQ0WyeuVeWxlFmsh5Yb5JMgNKFPGPzUwuN1Ew4-B68C61dBmkwQDGpD_K-LNoTPFAWerKhIg-iDbRpw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/upPq4DRVaYBGQ0WyeuVeWxlFmsh5Yb5JMgNKFPGPzUwuN1Ew4-B68C61dBmkwQDGpD_K-LNoTPFAWerKhIg-iDbRpw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-55.56903,48.975423,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Michael's Harbour - Lobster</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/hBc0JAiR01_nlWZLQx4Q0Ly04avVgsznao_n6nD2hhKcM5PMutj6wYUSwz-JZH32LLsepe2f9Zl-P5hjBDC7ueef" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/hBc0JAiR01_nlWZLQx4Q0Ly04avVgsznao_n6nD2hhKcM5PMutj6wYUSwz-JZH32LLsepe2f9Zl-P5hjBDC7ueef</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.993718,49.26649700000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Michael's Harbour - Strawberry  Geodome</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/SBG9QI6JjB5g06nh72bBp1-zSbr7g9FJ4OMrzBOHIOaVozAA3UnvenaryLJZE9DffUIdyss5KBMmzU5C_3dgf98" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/SBG9QI6JjB5g06nh72bBp1-zSbr7g9FJ4OMrzBOHIOaVozAA3UnvenaryLJZE9DffUIdyss5KBMmzU5C_3dgf98</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-54.973674,49.290674,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Springdale - Big Chair</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/I_I6Snw3SvRKTqRnIG6tn_aL4cZFMoiXWzcecBm6yoblAmj5nIMV-V7TKjOJPD7bl0qA0wXRgX1jqTMoolmbLqC4GA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/I_I6Snw3SvRKTqRnIG6tn_aL4cZFMoiXWzcecBm6yoblAmj5nIMV-V7TKjOJPD7bl0qA0wXRgX1jqTMoolmbLqC4GA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-56.068833000000005,49.498951,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. John's - Anchor</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MLnhm5-kuK5fdwTMie9bv-Uc6mcT6MuUCUq87ZW2mDtwSCfTuPvmYl9DAXTMNXd98mb5rHcYNNy0zk1D4LV07KI" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/MLnhm5-kuK5fdwTMie9bv-Uc6mcT6MuUCUq87ZW2mDtwSCfTuPvmYl9DAXTMNXd98mb5rHcYNNy0zk1D4LV07KI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-52.693259,47.572237,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. John's - Binoculars</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MAE0bgDvgJ7n_4ktD6KHq038kGlMbr00MDf99kTtsEKHQCUJ17J3NtZfWToQJ4vXBKOppgy1vS5JrUnUsNEpQxpn_A" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/MAE0bgDvgJ7n_4ktD6KHq038kGlMbr00MDf99kTtsEKHQCUJ17J3NtZfWToQJ4vXBKOppgy1vS5JrUnUsNEpQxpn_A</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-52.701926,47.569494,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. John's - "Jazz Maid" Mermaid</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/FnrQUqRjatxrPTEYMwqtZO9cpOdl-VcXWwYIrkXSvLWNYySyH6Ujo1iyHtLQEnOpW9mjkqueCPsGJQYcX84Hrvci" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/FnrQUqRjatxrPTEYMwqtZO9cpOdl-VcXWwYIrkXSvLWNYySyH6Ujo1iyHtLQEnOpW9mjkqueCPsGJQYcX84Hrvci</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-52.708065,47.562879,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

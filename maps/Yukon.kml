@@ -1,0 +1,252 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Yukon</name>
+		<Placemark>
+			<name>Beaver Creek - Mountie, Prospector and Pack Dog</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/mBMUkD8bcCf5SsGevPZq8441nz9bgRAyL7BZ5H2-a6ST6Uce6dqdAc3qCAHENH36-_L2oRJ_vbMcWTPDm65YNOumuvk" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/mBMUkD8bcCf5SsGevPZq8441nz9bgRAyL7BZ5H2-a6ST6Uce6dqdAc3qCAHENH36-_L2oRJ_vbMcWTPDm65YNOumuvk</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-140.875749,62.383482,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Burwash Landing - World's Largest Gold Pan</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-Vko9dpavBEzpKLMluiRcStqHhk7H8hYypvIjZ0bPV7SQuKpe6C4lzVt5DuvAXMYP_vhejjCAGAoYceWRVLtZw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/-Vko9dpavBEzpKLMluiRcStqHhk7H8hYypvIjZ0bPV7SQuKpe6C4lzVt5DuvAXMYP_vhejjCAGAoYceWRVLtZw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-138.997462,61.354113000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carcross - Caribou</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/F7YwbT0hR-1q-cpZMA6SKjqiUP1vjfTUv9ZRSe7pUEluyg8duFvI7lAN5DAAP5895l8RlV3kkjFWRof5be-xR6xYsMIDGzrK" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/F7YwbT0hR-1q-cpZMA6SKjqiUP1vjfTUv9ZRSe7pUEluyg8duFvI7lAN5DAAP5895l8RlV3kkjFWRof5be-xR6xYsMIDGzrK</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-134.705035,60.194344,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carcross - Gold Pans</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/G1VxMvBcD-yWXoLe6RjShN_UYmTVaAWHh-WR4rWQgeVTKhOnkIg8TcHIyqmzL9MYEg7kjA-nC02cetXQJD6V-v4" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/G1VxMvBcD-yWXoLe6RjShN_UYmTVaAWHh-WR4rWQgeVTKhOnkIg8TcHIyqmzL9MYEg7kjA-nC02cetXQJD6V-v4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-134.706384,60.165713999999994,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dawson City - Entrance Sign</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ts6UUIO7kbfoGA3uax4L69RVfBchBNRqUVtYzoPR6_uResLBGX7Ed4No6FRWjH1aWvcEBr_2IxInI2J-vwHc2h7TaA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/ts6UUIO7kbfoGA3uax4L69RVfBchBNRqUVtYzoPR6_uResLBGX7Ed4No6FRWjH1aWvcEBr_2IxInI2J-vwHc2h7TaA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-139.30081,64.037117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dawson City - Entrance Sign</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ts6UUIO7kbfoGA3uax4L69RVfBchBNRqUVtYzoPR6_uResLBGX7Ed4No6FRWjH1aWvcEBr_2IxInI2J-vwHc2h7TaA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/ts6UUIO7kbfoGA3uax4L69RVfBchBNRqUVtYzoPR6_uResLBGX7Ed4No6FRWjH1aWvcEBr_2IxInI2J-vwHc2h7TaA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-139.30081,64.037117,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dawson City - Keno - Paddlewheel Boat</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Ik88LlyodFNYEwnl4oDl7I8E5hDUCrTmdU8zP1bVw1IxH_7NCeG33AzkmuHI2zRiJLN0mw7fjz-shcLUPolf8mfayL47hyc0Li4" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/Ik88LlyodFNYEwnl4oDl7I8E5hDUCrTmdU8zP1bVw1IxH_7NCeG33AzkmuHI2zRiJLN0mw7fjz-shcLUPolf8mfayL47hyc0Li4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-139.435043,64.063191,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dawson City - Dredge #4</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Ui1g1IMOdvcSekUhchlnSfu7ESdz_OQwGTuXjD_sjTI87ASPHkhtn_OXmef_pLy3vD8u7--ZpgFoYU3ngkgltOc" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/Ui1g1IMOdvcSekUhchlnSfu7ESdz_OQwGTuXjD_sjTI87ASPHkhtn_OXmef_pLy3vD8u7--ZpgFoYU3ngkgltOc</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-139.335651,63.94374500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Faro - Ore Haul Truck #3</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ufNbgBfaq_gqyDqa4BOoDGa_f06XFKu9KSavaeofQKiL5gGMm6MuSaqJwqK-Te_nzeCwL6G1swm2DmYvHw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/ufNbgBfaq_gqyDqa4BOoDGa_f06XFKu9KSavaeofQKiL5gGMm6MuSaqJwqK-Te_nzeCwL6G1swm2DmYvHw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-133.36646,62.235539,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Haines Junction - Village Monument</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/YbTGTdtZKjhfWPGx280hFKwALqCAZG23-hfms6T3rgrXo0hqM-kJR-INs1jJH89WczOk_TbS-Ii5p4q9RnCP" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/YbTGTdtZKjhfWPGx280hFKwALqCAZG23-hfms6T3rgrXo0hqM-kJR-INs1jJH89WczOk_TbS-Ii5p4q9RnCP</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-137.510127,60.752821,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Teslin - Caribou and Moose</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/GmIUJBF6ksOWx-nIqI8i9CdfOkmbcvayTBa5Xx0zVdCBdHdXGWVVMkOEewuQdmKLSyTRNgVrzdQcnTcLeOG9" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/GmIUJBF6ksOWx-nIqI8i9CdfOkmbcvayTBa5Xx0zVdCBdHdXGWVVMkOEewuQdmKLSyTRNgVrzdQcnTcLeOG9</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-132.707881,60.167187999999996,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Watson Lake - The Sign Post Forest</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/UVjK9UvmSLYizPVrCpFuZMB7y-gZLxjBUOC46gfT2e16skpYL-tML142eT0Tv2FQXs1aplc7Wccw8fYNbYHn" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/UVjK9UvmSLYizPVrCpFuZMB7y-gZLxjBUOC46gfT2e16skpYL-tML142eT0Tv2FQXs1aplc7Wccw8fYNbYHn</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-128.714731,60.063284,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Watson Lake - Damaged Airplane Propeller</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/Zyh-qYSKAO4VcT5YK0MiTalw-Ein2dPS0FHUpbyCDUZPQ9kjyHrreyKuWRSnY2kweqBmfT06OLnmYjQd3L2wDiZ6WA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/Zyh-qYSKAO4VcT5YK0MiTalw-Ein2dPS0FHUpbyCDUZPQ9kjyHrreyKuWRSnY2kweqBmfT06OLnmYjQd3L2wDiZ6WA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-128.818527,60.112493,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Whitehorse - Mammoth Family</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/V8Dbsc9kDbmlZuGsi3A0lrQF91u3H90Jd_MsVR4YEwwVnLUR3AYaS_dZwLDh4B8_soh1RZid3-M0uysj7sRrqw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/V8Dbsc9kDbmlZuGsi3A0lrQF91u3H90Jd_MsVR4YEwwVnLUR3AYaS_dZwLDh4B8_soh1RZid3-M0uysj7sRrqw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.080284,60.70990499999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Whitehorse - Paddlewheel</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/VYEcucqi6yiHGscHXKosCZgYXHh0PvyEtuRPfmxRfjLpX0EGERj5eIJPzpzp8HEsfFI7YTswwnLZobBba11T-TdtRvg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/VYEcucqi6yiHGscHXKosCZgYXHh0PvyEtuRPfmxRfjLpX0EGERj5eIJPzpzp8HEsfFI7YTswwnLZobBba11T-TdtRvg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.052912,60.674961,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Whitehorse - Prospector and Dog</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/itTLPr5OM6LvhrcYq-c9WPYhDolMQIlyRpPaBGaq7TjJXD2KEm4GO7kF5dCnglxyAuWtgP0kcGIIWkm94wMJQt3d3y_hbg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/itTLPr5OM6LvhrcYq-c9WPYhDolMQIlyRpPaBGaq7TjJXD2KEm4GO7kF5dCnglxyAuWtgP0kcGIIWkm94wMJQt3d3y_hbg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-135.054763,60.71943799999999,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

@@ -1,0 +1,629 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>New Brunswick</name>
+		<Placemark>
+			<name>Beechwood - Flower Clock</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/1Ly4TgEQFmUmPemHfx3mamAwsOapFn4hwene-LA7spZHAHwpMMWDwwXMKOyp5NtbjqtICC7WPkPloxpXq7032KZB" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/1Ly4TgEQFmUmPemHfx3mamAwsOapFn4hwene-LA7spZHAHwpMMWDwwXMKOyp5NtbjqtICC7WPkPloxpXq7032KZB</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.669151,46.544827,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blackville - Fish Hook</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/wCuyV9JWITQzBc2-zvXiL95QO6SRZK1yw9jW3uxgR1YlCZegqgLK1IQIyVvm9wAZz1MWV3n6dFUhD6-uBFhZVbQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/wCuyV9JWITQzBc2-zvXiL95QO6SRZK1yw9jW3uxgR1YlCZegqgLK1IQIyVvm9wAZz1MWV3n6dFUhD6-uBFhZVbQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-65.833096,46.725887,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boiestown - Albert the Lumberjack</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/brr_ZIgglCr14qenftf1vpnfoxWka83UTZNpfJXv1gb5ZKQahkSj7JJMq6eJh-7RyFkKiDmaCCpRmiEBx9ds" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/brr_ZIgglCr14qenftf1vpnfoxWka83UTZNpfJXv1gb5ZKQahkSj7JJMq6eJh-7RyFkKiDmaCCpRmiEBx9ds</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.398403,46.468113,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boiestown - Fisherman</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/_QdTEW3MTmGocnSLh9l2l2IoJdI_oo1dHNagsGxANyZb6P_XwHfBcrMTNo48afXmUuuxzNXfT-BA4VXYCzveisTSCg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/_QdTEW3MTmGocnSLh9l2l2IoJdI_oo1dHNagsGxANyZb6P_XwHfBcrMTNo48afXmUuuxzNXfT-BA4VXYCzveisTSCg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.398854,46.468534000000005,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boiestown - Horse Drawn Grader</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/i0w-VoO7WTEZ366BfopKQSxZxgWqIXrjtWAYyWL2qyQ4cYb0oBRuct7m17dqtCGSwD8jn2pZ4IxAm0CrFRKw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/i0w-VoO7WTEZ366BfopKQSxZxgWqIXrjtWAYyWL2qyQ4cYb0oBRuct7m17dqtCGSwD8jn2pZ4IxAm0CrFRKw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.398347,46.468163,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boisetown - Lumberjack</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/8RNVZcdTH1TFPIDdP-J4rfaGOc122shP2FPthqMvBx6vx8GFYHhaNbkAxVQMcwm7qkzNX_O-MeCRB3ZRDwStUuFD0g" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/8RNVZcdTH1TFPIDdP-J4rfaGOc122shP2FPthqMvBx6vx8GFYHhaNbkAxVQMcwm7qkzNX_O-MeCRB3ZRDwStUuFD0g</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.398725,46.468613,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Boiestown - Peerless Self Oiling Lombardi Steam Engine</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/kZzBUX0vYxj3HnzgvNrRR5QJmQjnSO6hYq7TogmT1nuHSZJmiiVnNPwRzsWOKFXBHKo_8a8wNlxO-4SRp2eb-Ny57gCZbECOMdGxnKI" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/kZzBUX0vYxj3HnzgvNrRR5QJmQjnSO6hYq7TogmT1nuHSZJmiiVnNPwRzsWOKFXBHKo_8a8wNlxO-4SRp2eb-Ny57gCZbECOMdGxnKI</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.39847000000002,46.468066,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Campbellton - Sam - The World's Largest Salmon</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/iO-ho9jg1lDeLk7bJSGvstQI2H57sXbh0rjvPOl0EX0C47-2F4lDF-aZtO5kjSjWzmkIj_mENcrSLsPPNljP" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/iO-ho9jg1lDeLk7bJSGvstQI2H57sXbh0rjvPOl0EX0C47-2F4lDF-aZtO5kjSjWzmkIj_mENcrSLsPPNljP</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.674604,48.00901100000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caraquet - Sea Shell</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/170Osyek_RrnBbDn7oEqPWaRvRCMuaLx0CsDNcsHmdKSICC8tk7nTebJsGkiqgSamf0c_mSquD5R_KRrLGAZK0Y" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/170Osyek_RrnBbDn7oEqPWaRvRCMuaLx0CsDNcsHmdKSICC8tk7nTebJsGkiqgSamf0c_mSquD5R_KRrLGAZK0Y</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.974679,47.785289000000006,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Caraquet - World's Largest Conch</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/1PR3hyyMBAGsRnx73VsPctmUT0pcgjNdBZmGFdm8KWDVzYw9B9mmt3dI-RAkU2UNdb0O0fyH3gIxMmE9bp8" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/1PR3hyyMBAGsRnx73VsPctmUT0pcgjNdBZmGFdm8KWDVzYw9B9mmt3dI-RAkU2UNdb0O0fyH3gIxMmE9bp8</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.974818,47.78528500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Doaktown - Bruce the Moose</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/W5gAiTzrmF5tuQlAOZtNa8u6Vc1Wkdv6jeCbM_xI5rqpQ5gztuIaByRcKFMJWraIo3vSZg2c0jo-DMMb3e-xTlw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/W5gAiTzrmF5tuQlAOZtNa8u6Vc1Wkdv6jeCbM_xI5rqpQ5gztuIaByRcKFMJWraIo3vSZg2c0jo-DMMb3e-xTlw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.104205,46.57008,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Dorchester - Semipalmated Sandpiper</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/D0tJTvYsWv-0gLpbsHfSInVmbKC24hUnY92FwqN183RSuh9Yc7fMdj_EpfyjYKoRPge6qlaHem6mIvx694Hj2fO-8w" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/D0tJTvYsWv-0gLpbsHfSInVmbKC24hUnY92FwqN183RSuh9Yc7fMdj_EpfyjYKoRPge6qlaHem6mIvx694Hj2fO-8w</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.516378,45.89982,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Florenceville - Noah's Ark</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Z3iDfDjp5uWoaT-BE2TdDnABsRbQ3NxVlKaITr7mROg5a1iFYT0nzat7AGZNQkjPIUB0_kYczrRUhYWHALEYQQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/Z3iDfDjp5uWoaT-BE2TdDnABsRbQ3NxVlKaITr7mROg5a1iFYT0nzat7AGZNQkjPIUB0_kYczrRUhYWHALEYQQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.591581,46.434552,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>French Lake - Blue Heron</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/ssjsPkTbNM7fng2yc4QmzB8MnWTCw0RVqXMTA5rImwVnra4HIKgvpTLcCWdncALXAYEXlQZM-R0kOSGaCa-igg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/ssjsPkTbNM7fng2yc4QmzB8MnWTCw0RVqXMTA5rImwVnra4HIKgvpTLcCWdncALXAYEXlQZM-R0kOSGaCa-igg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.545756,45.7664,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grand Falls - Lady Potato</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/yseDstYWgk-fCvqobGA4PuCufbcLkFuCm0j90eYAhEh_nseyH3EXqeMlBfYJ6Fj-t9tZKHIxvtTRa6JSrDQgJQXgEQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/yseDstYWgk-fCvqobGA4PuCufbcLkFuCm0j90eYAhEh_nseyH3EXqeMlBfYJ6Fj-t9tZKHIxvtTRa6JSrDQgJQXgEQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.784931,47.06976,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grand Falls - Native Lady</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/iSqas8fBv4iWMSDcNhPBa_xXYZdwddX5OjDaVXvSpmpkCiXShQhU3pxejyDugOJRDhAOPiYr7kbNIAm7EuijxKsOnQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/iSqas8fBv4iWMSDcNhPBa_xXYZdwddX5OjDaVXvSpmpkCiXShQhU3pxejyDugOJRDhAOPiYr7kbNIAm7EuijxKsOnQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.73781,47.051812,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Harvey - Fiddle</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/beA4s6SljrD5buDDpdfg4FPywzl5bMv1dTbyyI-p_JEKQlJsd15HdQa862BjZhkogax7VH5E9fQOs7eNnC6F" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/beA4s6SljrD5buDDpdfg4FPywzl5bMv1dTbyyI-p_JEKQlJsd15HdQa862BjZhkogax7VH5E9fQOs7eNnC6F</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.002067,45.730906,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Fredericton Junction - The Peddler</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/iFNRRxLMZJWiIr7KqRUSceLclL0yjjKTibp7dM3q1si20liJymPR3uRplkvzJRvE9L1hqmLa3mTM9zox7mXbQw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/iFNRRxLMZJWiIr7KqRUSceLclL0yjjKTibp7dM3q1si20liJymPR3uRplkvzJRvE9L1hqmLa3mTM9zox7mXbQw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.626742,45.642758,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kedgwick - Lumberjack</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5JLl-tMklA4okYGTeodh9X1e4TU1L34ul7XCTaD1d8Pmc9LCIIW8LWacgYFHx2bCUptgpD5rTjMQ0q77RW3zBLDYzQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/5JLl-tMklA4okYGTeodh9X1e4TU1L34ul7XCTaD1d8Pmc9LCIIW8LWacgYFHx2bCUptgpD5rTjMQ0q77RW3zBLDYzQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.343209,47.652575,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Maugerville - Harvey's Big Potato</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ISXQOr2QmpmfJlPQITRCohbB_25O-xtI-D5DfSlq5XjAfWzWIn8Aw507EoZKHytjl3w7_93WIVBEN8TFZ3WH" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/ISXQOr2QmpmfJlPQITRCohbB_25O-xtI-D5DfSlq5XjAfWzWIn8Aw507EoZKHytjl3w7_93WIVBEN8TFZ3WH</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.524574,45.887829,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>McAdam - Train Conductor</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/AiIh0YT3o2ZRdUqkLB-fDowJlEcGqFuKRENlON1xKkwlV7kdjGQ3FeZu-UcIZb_KN_8tbm_Qv4N5TB_NxOY9" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/AiIh0YT3o2ZRdUqkLB-fDowJlEcGqFuKRENlON1xKkwlV7kdjGQ3FeZu-UcIZb_KN_8tbm_Qv4N5TB_NxOY9</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.330117,45.589666,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Millville - World's Largest Maple Leaf</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/0G6WJPry1i5P46Dq8ytdMO1XkaaKHU7az_GcGrLsPdck_UkhOxXLT3Ex9UHfnYkB0KzTMxMqzVi46AlTpPVAw-Rz" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/0G6WJPry1i5P46Dq8ytdMO1XkaaKHU7az_GcGrLsPdck_UkhOxXLT3Ex9UHfnYkB0KzTMxMqzVi46AlTpPVAw-Rz</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.195545,46.13073500000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moncton - HMCS Magnificent Anchor</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/fc7qSr-rPwX9GIOHsmYiuuieSurS6U6FCZYVFU8-U8dcqYWs35wfDs6TLUjgicHFRAJwIsUtg54FRQqgsHuxr-ZzVjtnZA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/fc7qSr-rPwX9GIOHsmYiuuieSurS6U6FCZYVFU8-U8dcqYWs35wfDs6TLUjgicHFRAJwIsUtg54FRQqgsHuxr-ZzVjtnZA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.813725,46.084777,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Moncton - Magnet</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/AUPVdq9WoK4mnTWqSMWOZqp9lJ2ENEV4gcLw_93CcfR-E6w7GEWl922BSuhiky9BYCNJBmCr9iZ2-QIOZeGO" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/AUPVdq9WoK4mnTWqSMWOZqp9lJ2ENEV4gcLw_93CcfR-E6w7GEWl922BSuhiky9BYCNJBmCr9iZ2-QIOZeGO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.888167,46.135657,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nackawic - World's Largest Axe</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/KA_daYurfsMOUMtKVbPAFc06UtvM2-300ZDrN9tBlenHTDOdVoXYwXevgQ70fa_P46KwmAk89ybfy6i7" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/KA_daYurfsMOUMtKVbPAFc06UtvM2-300ZDrN9tBlenHTDOdVoXYwXevgQ70fa_P46KwmAk89ybfy6i7</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.233195,45.99330900000001,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Oromocto - Soidier</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/911b1h9QXQ5mtZRgLN9WgYTvOETS5ax-IDWjtBNQb2V59He2Z_OG03DMtX5kSZHB51gr8Fm-VKXPwL4w3B7Ga9c" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/911b1h9QXQ5mtZRgLN9WgYTvOETS5ax-IDWjtBNQb2V59He2Z_OG03DMtX5kSZHB51gr8Fm-VKXPwL4w3B7Ga9c</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.477558,45.852519,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penobsquis - "Blowhard" The Bony Horse</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/DB42HDkrYNr-a_EJsjrTo0VXcjSz2MnkQmSqmVnOb9pr7KFwtTuWOheQaT7Nb3OGvFeP74vLYkrhWrNGKWmoQpfVvC4" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/DB42HDkrYNr-a_EJsjrTo0VXcjSz2MnkQmSqmVnOb9pr7KFwtTuWOheQaT7Nb3OGvFeP74vLYkrhWrNGKWmoQpfVvC4</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-65.424775,45.749081,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Penobsquis - Burger Cook</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/CJeB6YuGVQjcpuTDta7gbRBqsJomHgQzrZdys5W0T1IqwuKann9_6jteH4ncxmRMKteI01mIsDJCRMK6nYGNbUEBTQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/CJeB6YuGVQjcpuTDta7gbRBqsJomHgQzrZdys5W0T1IqwuKann9_6jteH4ncxmRMKteI01mIsDJCRMK6nYGNbUEBTQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-65.42768,45.74722,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaster Rock - Bear</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/P5aW55leg4xG6F7Z7MOgblhZp95Jv9PGe-c7KwHUAb8rxfgZVENJYhwBqqXfhmldlP1TF8jlq9ZH_7ojnXeEmU7nTE1FNBLB" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/P5aW55leg4xG6F7Z7MOgblhZp95Jv9PGe-c7KwHUAb8rxfgZVENJYhwBqqXfhmldlP1TF8jlq9ZH_7ojnXeEmU7nTE1FNBLB</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.395048,46.897334,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Plaster Rock - World's Largest Fiddleheads</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/DAMlO5TbG02E-iIShtDY6BPGqMGdoYSeuXwYX3PkET-C3MVOVpcGMLo9qH3BCGuYoP8UgCUR-h4ZtWJ36wTZ1nVABbw" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/DAMlO5TbG02E-iIShtDY6BPGqMGdoYSeuXwYX3PkET-C3MVOVpcGMLo9qH3BCGuYoP8UgCUR-h4ZtWJ36wTZ1nVABbw</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.395764,46.896115,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint-Jacques - Metal Ship</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/vfzb8SiHTOLOYNgIqIyH2JJhAotwIPkl0ZzTRKU3VL47Tmhgu37WdXDqy1DMvo3Khy1-OYwPU2oq27eQHK7Iv85evA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/vfzb8SiHTOLOYNgIqIyH2JJhAotwIPkl0ZzTRKU3VL47Tmhgu37WdXDqy1DMvo3Khy1-OYwPU2oq27eQHK7Iv85evA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-68.479393,47.483018,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint John - Moose</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/p_04NP785VrhaN4WLxB7C5HdUEFKa4FM_nvOFf4X7-FbxxQaSxhZit-y9lqjcjBoGfY6IU4ay_pvEpR8PPWv" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/p_04NP785VrhaN4WLxB7C5HdUEFKa4FM_nvOFf4X7-FbxxQaSxhZit-y9lqjcjBoGfY6IU4ay_pvEpR8PPWv</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.063792,45.272689,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Salisbury - World's Largest Silver Fox</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/FLrdTpUsO65k3YA-jZt5gi-nqemdg-ImnlGdyyKWihuv3waflQIo0x-tkWEsm7QAOPywMlMLQFfp4G9RsUvNbpcp" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/FLrdTpUsO65k3YA-jZt5gi-nqemdg-ImnlGdyyKWihuv3waflQIo0x-tkWEsm7QAOPywMlMLQFfp4G9RsUvNbpcp</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-65.060493,46.05069,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shediac - World's Largest Lobster</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/QJOMkY-DhmGFR_1VVXB1PbihieNnU5xjN3jLf6q1O40oIMNtNaHW5qOWQsEr77QI2lEKYshZ5c0ZylgEH7XcFg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/QJOMkY-DhmGFR_1VVXB1PbihieNnU5xjN3jLf6q1O40oIMNtNaHW5qOWQsEr77QI2lEKYshZ5c0ZylgEH7XcFg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.555061,46.218696,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Shediac - World's Largest Rooster</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/IrefyruWgQaBACHVDHC0Bwl-JAsSmdpPyZdASukWOvTyMpkb2yyrlu8XxI7KHC4iRLuDVwwy1eEumxFSUzIrtA" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/IrefyruWgQaBACHVDHC0Bwl-JAsSmdpPyZdASukWOvTyMpkb2yyrlu8XxI7KHC4iRLuDVwwy1eEumxFSUzIrtA</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-64.518014,46.223545,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Andrews - Drug Store Mural</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/bth6Mr02c698juzgUcAHvULeMOM4SrkoWKCSrmRpqOye5PRXsjTvochUHwueLK8brkbHACxq6DvxVNsqLus6gExO" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/bth6Mr02c698juzgUcAHvULeMOM4SrkoWKCSrmRpqOye5PRXsjTvochUHwueLK8brkbHACxq6DvxVNsqLus6gExO</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.053053,45.074019,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. Andrews - Metal Fish</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/VHKVSs6R0_r2XdIdbBKTd9nrxc0iBN5eyWJo0IVDj-widru6Hz5Wg_OG-F4EYIQIkqXDLOHV1jOMoJhnINEJJUDZ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/VHKVSs6R0_r2XdIdbBKTd9nrxc0iBN5eyWJo0IVDj-widru6Hz5Wg_OG-F4EYIQIkqXDLOHV1jOMoJhnINEJJUDZ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.080111,45.08482,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saint Andrews - Water Tower</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/5uSCm7-5LwdobFJPIPrFMhhGWuiA0qLtzWCYH-T2hxpt7-G3t7QouJZk84JmqpuTMDAUkeTNE-yWCP0iqNsDgICFbiFKVQ" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/5uSCm7-5LwdobFJPIPrFMhhGWuiA0qLtzWCYH-T2hxpt7-G3t7QouJZk84JmqpuTMDAUkeTNE-yWCP0iqNsDgICFbiFKVQ</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.068862,45.094709,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. George - Blueberry</name>
+			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/e9VdpEC2OOd8EVlu1mTsdDYmYNB1pfMPntf-JfLL9PQdyrQZFfrDjJ6x5R1v79sLeGhJDDcEf_QfDB6JY8yTiSo" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh5.googleusercontent.com/proxy/e9VdpEC2OOd8EVlu1mTsdDYmYNB1pfMPntf-JfLL9PQdyrQZFfrDjJ6x5R1v79sLeGhJDDcEf_QfDB6JY8yTiSo</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.829804,45.129714,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St. John - Anchor</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/cP8eJ1TUxxufHgxfoEcWo4g6tuChiLTE-kq3iJrQi__orxiCllv_1nxSaDDGAc7ukUOjMZ7ExIEnNsQkOMBRi0OPyg" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/cP8eJ1TUxxufHgxfoEcWo4g6tuChiLTE-kq3iJrQi__orxiCllv_1nxSaDDGAc7ukUOjMZ7ExIEnNsQkOMBRi0OPyg</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.0629582,45.2728555,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sussex - Buttercup the Cow and Daisy the Calf</name>
+			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/REoJH58L4XbzUU4ycX9vzm-7f61fCMwYX6Zcs9sfxGyOsQWycnGZW5EGmD8qUCZoJFEFhuWjOv5WNmy6BsYkgLLKag" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh6.googleusercontent.com/proxy/REoJH58L4XbzUU4ycX9vzm-7f61fCMwYX6Zcs9sfxGyOsQWycnGZW5EGmD8qUCZoJFEFhuWjOv5WNmy6BsYkgLLKag</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-65.499297,45.736068,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Temple - Stallion</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/wb5YUc6PADobsRcNWW-I9QMWlhzb7-AKE5yikNGZ_-R6VLKrnrl21AuJ4OVl-PrphpYLAWdy-JCSlc8E87uH" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/wb5YUc6PADobsRcNWW-I9QMWlhzb7-AKE5yikNGZ_-R6VLKrnrl21AuJ4OVl-PrphpYLAWdy-JCSlc8E87uH</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.455446,45.98603,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waasis - Beaver and Moose in a Canoe</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/vX0eXi-9F4oOzAli57yUfk6qSrHMoOamnm_XcP9O13nJ_pWyVoz1P2m1p01Wro5f766qyODx6OsrdMe0eEYT" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/vX0eXi-9F4oOzAli57yUfk6qSrHMoOamnm_XcP9O13nJ_pWyVoz1P2m1p01Wro5f766qyODx6OsrdMe0eEYT</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.560916,45.851333,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Waasis - Robin</name>
+			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/11GTNOw7CvqQ8rFl-6pzb7RZJYjHT1-bMjofSobFZ_pAuwcRu5Jz2y7UCC6QkmL2usc1_sLGdWULik63aW0" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh4.googleusercontent.com/proxy/11GTNOw7CvqQ8rFl-6pzb7RZJYjHT1-bMjofSobFZ_pAuwcRu5Jz2y7UCC6QkmL2usc1_sLGdWULik63aW0</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-66.56582,45.853533,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Woodstock - Yogi Bear</name>
+			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/kzR4qtUdBBuyk8zDSUWZvSiOm9htrTdVGBnnYoVxRSENcfNbkzWJ50qwGNiMM_9ERwMAks87r1jxcrbWRfIKaPFZp0uh_qC-meM" height="200" width="auto" /><br><br>]]></description>
+			<styleUrl>#icon-503-DB4436</styleUrl>
+			<ExtendedData>
+				<Data name='gx_media_links'>
+					<value>https://lh3.googleusercontent.com/proxy/kzR4qtUdBBuyk8zDSUWZvSiOm9htrTdVGBnnYoVxRSENcfNbkzWJ50qwGNiMM_9ERwMAks87r1jxcrbWRfIKaPFZp0uh_qC-meM</value>
+				</Data>
+			</ExtendedData>
+			<Point>
+				<coordinates>-67.605116,46.125952,0.0</coordinates>
+			</Point>
+		</Placemark>
+		<Style id='icon-503-DB4436-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+		</Style>
+		<Style id='icon-503-DB4436-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
