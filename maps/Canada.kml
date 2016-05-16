@@ -7343,7 +7343,7 @@
   </StyleMap>
 
 
-  <name>New Brunswick</name>
+
   <Placemark>
     <name>Beechwood - Flower Clock</name>
     <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/1Ly4TgEQFmUmPemHfx3mamAwsOapFn4hwene-LA7spZHAHwpMMWDwwXMKOyp5NtbjqtICC7WPkPloxpXq7032KZB" height="200" width="auto" /><br><br>]]></description>
@@ -8281,8 +8281,6 @@
     </Pair>
   </StyleMap>
 
-
-  <name>Nova Scotia</name>
   <Placemark>
     <name>Amherst - Fathers of Confederation</name>
     <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/euhTAW9E82CVvs2kI18P8HXQN_lCGhAMOsW-BA9o52qB_pH64IpplK0FKyyMR0LyKhNAQrK4kTGJAud_X-7bfw" height="200" width="auto" /><br><br>]]></description>
@@ -12750,7 +12748,7 @@
 		<Placemark>
 			<name>Asbestos - Lectra Hauler</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5HHi0pFF_yH1nv_iSgBtj6ZV3MLX09AO8DrbEIMTsFFvBh9ZDHPOXASmzoGLP6HeIjoOUWxH70vYcNIjR_KY6TQv3w" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/5HHi0pFF_yH1nv_iSgBtj6ZV3MLX09AO8DrbEIMTsFFvBh9ZDHPOXASmzoGLP6HeIjoOUWxH70vYcNIjR_KY6TQv3w</value>
@@ -12763,7 +12761,7 @@
 		<Placemark>
 			<name>Baie Comeau - Canoe Padder - "Colonel McCormack"</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/z7rvcafms-lNWj0s9DkolBsvlx9AAi4tZe4MMpz6-mEVfD9PRQPINz1L4IKImLD42BEDgMDcdtt2IC2r9-AiaPKmmA" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/z7rvcafms-lNWj0s9DkolBsvlx9AAi4tZe4MMpz6-mEVfD9PRQPINz1L4IKImLD42BEDgMDcdtt2IC2r9-AiaPKmmA</value>
@@ -12776,7 +12774,7 @@
 		<Placemark>
 			<name>Baie Comeau - Poppy Memorial</name>
 			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/546u38o-XS-NFYTDXR5hEqYawqZynnJUvjdQSqqni8T1axeQN-ntemHw_Bn7NY5aNhhg0SgQ4ZY_OrSN52A" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh6.googleusercontent.com/proxy/546u38o-XS-NFYTDXR5hEqYawqZynnJUvjdQSqqni8T1axeQN-ntemHw_Bn7NY5aNhhg0SgQ4ZY_OrSN52A</value>
@@ -12789,7 +12787,7 @@
 		<Placemark>
 			<name>Baie-Saint-Paul - Cow</name>
 			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/8WLmItnLqaaNp_LzdQr1-7i3yHX-AGaSoNKKPqhIVlqiAWoJKbRiL8D5Z8f3MacHHuSAWFUFST9AUyAY1-ZLfnTojsdDEA" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh5.googleusercontent.com/proxy/8WLmItnLqaaNp_LzdQr1-7i3yHX-AGaSoNKKPqhIVlqiAWoJKbRiL8D5Z8f3MacHHuSAWFUFST9AUyAY1-ZLfnTojsdDEA</value>
@@ -12802,7 +12800,7 @@
 		<Placemark>
 			<name>Coaticook - Bull</name>
 			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-nckV61oU8yEwBGQkjBxppRzCX8zqvi_ZIQZcJHObwjHjkW8T2MZ-T9YW0f66moz4nraYEWwOK9T3Pl9uQhB1VHh" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh5.googleusercontent.com/proxy/-nckV61oU8yEwBGQkjBxppRzCX8zqvi_ZIQZcJHObwjHjkW8T2MZ-T9YW0f66moz4nraYEWwOK9T3Pl9uQhB1VHh</value>
@@ -12815,7 +12813,7 @@
 		<Placemark>
 			<name>La Bostonnais - Large Chair and Side Table</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/LNmil3KmgAYzcQD2EZ59RErynRtHrZ_ZBlEe9y5JH0EHMryXCUns-fXseguTcYIMdwm-2M3np29TRZlXHwLllRjAvAD0" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/LNmil3KmgAYzcQD2EZ59RErynRtHrZ_ZBlEe9y5JH0EHMryXCUns-fXseguTcYIMdwm-2M3np29TRZlXHwLllRjAvAD0</value>
@@ -12828,7 +12826,7 @@
 		<Placemark>
 			<name>Les-Chutes-de-la-Chaudiere-Ouest - Husky Dog</name>
 			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/SoUialZOwymmB_N8BiBhb4Xsm3iWvwBgAFDDxjy7jp-sxB37WJAMB41y-SRxvsL6A5kpS1LihzjU3qL8r_VriTE" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh4.googleusercontent.com/proxy/SoUialZOwymmB_N8BiBhb4Xsm3iWvwBgAFDDxjy7jp-sxB37WJAMB41y-SRxvsL6A5kpS1LihzjU3qL8r_VriTE</value>
@@ -12841,7 +12839,7 @@
 		<Placemark>
 			<name>Longue-Pointe-de-Mingan - Whale</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/HsJpalWfvwULSC6D4Pot4Naf-PI14LTOJkX0kh2zXQQSTQN4thuOY-SJL6mrIE70oCNHHm20XkDnMZKlw54E" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/HsJpalWfvwULSC6D4Pot4Naf-PI14LTOJkX0kh2zXQQSTQN4thuOY-SJL6mrIE70oCNHHm20XkDnMZKlw54E</value>
@@ -12854,7 +12852,7 @@
 		<Placemark>
 			<name>Longue-Pointe-de-Mingan - Puffin</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/5g_2r1LTlp_bKRGHnohPWa9n3wEMY78JMgFgCXZgJ-MoVviX6F5G7rO7A2ViKEFhhW0laMvdokGuizhqhhRS" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/5g_2r1LTlp_bKRGHnohPWa9n3wEMY78JMgFgCXZgJ-MoVviX6F5G7rO7A2ViKEFhhW0laMvdokGuizhqhhRS</value>
@@ -12867,7 +12865,7 @@
 		<Placemark>
 			<name>Matane - Whale</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/AKbFC0uuRWSltR6HmdtTptz0ZvbOljG8SQszWk86xMMUIp62wEzfsg5y3Q6aXG7pp7YPIVtbHOoScDKrHhn8" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/AKbFC0uuRWSltR6HmdtTptz0ZvbOljG8SQszWk86xMMUIp62wEzfsg5y3Q6aXG7pp7YPIVtbHOoScDKrHhn8</value>
@@ -12880,7 +12878,7 @@
 		<Placemark>
 			<name>Montreal - Les Couchoeuses</name>
 			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/uAjb-Arq_cuQoAK0ccjM3-5rBbHV7h3DuMebCHuy9EkLeUlEOYGom7mTwg4By8CXYaN3Aa6ouRtZNo3pol0d5WPZRzVD" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh4.googleusercontent.com/proxy/uAjb-Arq_cuQoAK0ccjM3-5rBbHV7h3DuMebCHuy9EkLeUlEOYGom7mTwg4By8CXYaN3Aa6ouRtZNo3pol0d5WPZRzVD</value>
@@ -12893,7 +12891,7 @@
 		<Placemark>
 			<name>Montreal - Mont-Royal Cross</name>
 			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/FWPNiDVZcFep5l10-Vh5YpbYvD2W1wJLvKnDIZlcxmT08u9v1eu9B1gpEDwyNEcFkUz5od_7u8pnoUq-MTo" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh6.googleusercontent.com/proxy/FWPNiDVZcFep5l10-Vh5YpbYvD2W1wJLvKnDIZlcxmT08u9v1eu9B1gpEDwyNEcFkUz5od_7u8pnoUq-MTo</value>
@@ -12906,7 +12904,7 @@
 		<Placemark>
 			<name>Montreal - Orange Julep</name>
 			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/UH52sjk5mI4m4jRVPFE1BzoNCUL389HelRSDoS6sGj0X1CR_7en82t0IZ_QBz1ccWu6Kw7H-0OXFqeRIWZWd" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh4.googleusercontent.com/proxy/UH52sjk5mI4m4jRVPFE1BzoNCUL389HelRSDoS6sGj0X1CR_7en82t0IZ_QBz1ccWu6Kw7H-0OXFqeRIWZWd</value>
@@ -12919,7 +12917,7 @@
 		<Placemark>
 			<name>Quebec City - Singing Frog</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MDGcAR986Hj5fg9sGMj1GCCgWT0OLEiwp3HnR2Ns9WjasJvMasA5eGDfdYEQxrHk71DuUSp6SPu3z2RZXjHjYW8oY38" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/MDGcAR986Hj5fg9sGMj1GCCgWT0OLEiwp3HnR2Ns9WjasJvMasA5eGDfdYEQxrHk71DuUSp6SPu3z2RZXjHjYW8oY38</value>
@@ -12932,7 +12930,7 @@
 		<Placemark>
 			<name>Quebec City -�"The Odyssey" (Campbell's Soup Can and Pigeons)</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/NS5achwCFOzDH_e1EHyWggUQM_jXh9vHFq_cAscLuLV_jY-V3n5aCA6hVC2Hzl6OfwvX09Fzb9vmhg3N0edrKA" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/NS5achwCFOzDH_e1EHyWggUQM_jXh9vHFq_cAscLuLV_jY-V3n5aCA6hVC2Hzl6OfwvX09Fzb9vmhg3N0edrKA</value>
@@ -12945,7 +12943,7 @@
 		<Placemark>
 			<name>Ragueneau - Dinosaur</name>
 			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/dUMeVV-DHflWkYUx_ssA40ubOpAeIJSQG3v4yoTffKodUFLj8w5_7nDaD7gnjwDzoSFNJxcp61dRtCCkzkg" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh6.googleusercontent.com/proxy/dUMeVV-DHflWkYUx_ssA40ubOpAeIJSQG3v4yoTffKodUFLj8w5_7nDaD7gnjwDzoSFNJxcp61dRtCCkzkg</value>
@@ -12958,7 +12956,7 @@
 		<Placemark>
 			<name>Rivi�re-du-Loup - Indian Head</name>
 			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/pDS7XZfAo2sVnQ7rLIqfCDsY4opK18vWgAlWgomsX05HyLmbm4ESM1o5w4tGqyt0LQKzTT3A2xBzr4_PdMlX9VOYka0" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh5.googleusercontent.com/proxy/pDS7XZfAo2sVnQ7rLIqfCDsY4opK18vWgAlWgomsX05HyLmbm4ESM1o5w4tGqyt0LQKzTT3A2xBzr4_PdMlX9VOYka0</value>
@@ -12971,7 +12969,7 @@
 		<Placemark>
 			<name>Sabrevois - Geant Antique Man</name>
 			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/-EWZqp62X6fM8CK4hotG8kaoIiVkWBZV7nmdhSSNpZ1mFBoARJTnKVclU5N-YVJEoqAOQzgnLN1OGIie7Ps" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh5.googleusercontent.com/proxy/-EWZqp62X6fM8CK4hotG8kaoIiVkWBZV7nmdhSSNpZ1mFBoARJTnKVclU5N-YVJEoqAOQzgnLN1OGIie7Ps</value>
@@ -12984,7 +12982,7 @@
 		<Placemark>
 			<name>Sainte-Anne-de-Beaupre - Dogs</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/OGBkHrydfv0GZzVSp9E9_pnyz-Ilso0rSjm0UzxIoNQ7QydDqtm_OmW7ZmfHyiCxqL5fD3MlDibssaLdiA" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/OGBkHrydfv0GZzVSp9E9_pnyz-Ilso0rSjm0UzxIoNQ7QydDqtm_OmW7ZmfHyiCxqL5fD3MlDibssaLdiA</value>
@@ -12997,7 +12995,7 @@
 		<Placemark>
 			<name>Sainte-Anne-de-Beaupre - Moose</name>
 			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/UKbI9w0DwhrEqCKnw4un60ddknVQWqPSK06jiJoYEryoaXrJYUQQ4GkNPcVC_1jfttMAX7Ygk-EkeBCOtu5zLg" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh4.googleusercontent.com/proxy/UKbI9w0DwhrEqCKnw4un60ddknVQWqPSK06jiJoYEryoaXrJYUQQ4GkNPcVC_1jfttMAX7Ygk-EkeBCOtu5zLg</value>
@@ -13010,7 +13008,7 @@
 		<Placemark>
 			<name>Sainte-Anne-de-Beaupre - Smurf Huts</name>
 			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/W87tEtBtRWWpz1_WHCKyumsqUxdoCHlLJFNIzj8aiuq2BYSjmmoPU4cBw8XjWNg8Vx30V5sPAp5v6MYIfVQwHB0g" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh6.googleusercontent.com/proxy/W87tEtBtRWWpz1_WHCKyumsqUxdoCHlLJFNIzj8aiuq2BYSjmmoPU4cBw8XjWNg8Vx30V5sPAp5v6MYIfVQwHB0g</value>
@@ -13023,7 +13021,7 @@
 		<Placemark>
 			<name>Saint-Hyacinthe - Large Egg</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/S4YTWx4VD7Qn9aNdiMYJJ27gb-KVLlhP6d4nvb7qElRKVmKf_UA_e_r1oKIdCBL_VbDHOgoFFSpopLw202s" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/S4YTWx4VD7Qn9aNdiMYJJ27gb-KVLlhP6d4nvb7qElRKVmKf_UA_e_r1oKIdCBL_VbDHOgoFFSpopLw202s</value>
@@ -13036,7 +13034,7 @@
 		<Placemark>
 			<name>Saint-Hyacinthe - L'Espace Maskoutain</name>
 			<description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ykfKVB1RJv-zhvNiI5kRkaC3L2bP-GtKvhNPcAay-67WX3lbjVJiBOPAeBJ1cah7Adx7GfRsbAqthDcXFA" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh5.googleusercontent.com/proxy/ykfKVB1RJv-zhvNiI5kRkaC3L2bP-GtKvhNPcAay-67WX3lbjVJiBOPAeBJ1cah7Adx7GfRsbAqthDcXFA</value>
@@ -13049,7 +13047,7 @@
 		<Placemark>
 			<name>St.-Georges-de-Windsor - Cow Lookout</name>
 			<description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ytMPOoWpBP8c84evnDQsgLV5YP7OI_BnXoyED8ULs6F92613dRziOhz4w7Oily4lnCNs0bOBVqRbeItuZgo5B-YuRA" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh6.googleusercontent.com/proxy/ytMPOoWpBP8c84evnDQsgLV5YP7OI_BnXoyED8ULs6F92613dRziOhz4w7Oily4lnCNs0bOBVqRbeItuZgo5B-YuRA</value>
@@ -13062,7 +13060,7 @@
 		<Placemark>
 			<name>St-Jean-sur-Richelieu - Rail Spike</name>
 			<description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/GugsEhJhMfIQljY1Uo_T-caGpaPoZn-xOiP-HyGXsaeKgmObUyNmW34AjbvS48GzwMCjHTRdHuMnxgM3UJLkYIof" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh3.googleusercontent.com/proxy/GugsEhJhMfIQljY1Uo_T-caGpaPoZn-xOiP-HyGXsaeKgmObUyNmW34AjbvS48GzwMCjHTRdHuMnxgM3UJLkYIof</value>
@@ -13074,7 +13072,7 @@
 		</Placemark>
 		<Placemark>
 			<name>Tadoussac - Beluga</name>
-			<styleUrl>#icon-22-nodesc</styleUrl>
+			<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
 			<Point>
 				<coordinates>-69.716422,48.143579,0.0</coordinates>
 			</Point>
@@ -13082,7 +13080,7 @@
 		<Placemark>
 			<name>Tadoussac - Belugas</name>
 			<description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/xp_C3P1qIfgl0w71jeIhDaND_N06ONTVFTYVpipcha-NcIklJGm_TDcetbnFZGEJbMsKE6VijZif-VPcH-l6ew" height="200" width="auto" /><br><br>]]></description>
-			<styleUrl>#icon-22</styleUrl>
+			<styleUrl>#icon-503-DB4436</styleUrl>
 			<ExtendedData>
 				<Data name='gx_media_links'>
 					<value>https://lh4.googleusercontent.com/proxy/xp_C3P1qIfgl0w71jeIhDaND_N06ONTVFTYVpipcha-NcIklJGm_TDcetbnFZGEJbMsKE6VijZif-VPcH-l6ew</value>
@@ -13121,11 +13119,11 @@
 		<StyleMap id='icon-22'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#icon-22-normal</styleUrl>
+				<styleUrl>#icon-503-DB4436-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#icon-22-highlight</styleUrl>
+				<styleUrl>#icon-503-DB4436-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 		<Style id='icon-22-nodesc-normal'>
@@ -13163,11 +13161,11 @@
 		<StyleMap id='icon-22-nodesc'>
 			<Pair>
 				<key>normal</key>
-				<styleUrl>#icon-22-nodesc-normal</styleUrl>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
 			</Pair>
 			<Pair>
 				<key>highlight</key>
-				<styleUrl>#icon-22-nodesc-highlight</styleUrl>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
 			</Pair>
 		</StyleMap>
 
